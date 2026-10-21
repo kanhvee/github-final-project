@@ -1,0 +1,6 @@
+
+theia@theia-kritishah100:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert f8ba762 Revert "Fix copyright year in README footer"
+  bug-fix-typo   546d1f0 [origin/bug-fix-typo] Resolve merge conflict
+  main           546d1f0 [origin/main] Resolve merge conflict
+theia@theia-kritishah100:/home/project/mcino-Introduction-to-Git-and-GitHub$ 
